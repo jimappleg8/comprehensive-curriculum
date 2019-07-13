@@ -4,6 +4,10 @@ Comprehensive thinking is an attempt to integrate what we have learned about Uni
 
 This open artifacts project attempts defining a curriculum for anyone wanting to study comprehensive thinking.
 
+Ultimately, the curriculum would be in the form of a website.
+
+To contribute to the project, you can fork this repository and then submit a pull request with any contribution you make. If you're not so technically adept, you're welcome to contact Jim Applegate by going to https://www.JimApplegate.com/contact/.
+
 This is in the early stages, but here is a simple list of topics. This first list includes some of the basics of clear thinking:
 
 * Critical Thinking
