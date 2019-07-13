@@ -1,10 +1,10 @@
-# comprehensive-curriculum
+# A comprehensivist study guide
 
 Comprehensive thinking is an attempt to integrate what we have learned about Universe in order to gain a clearer understanding of our world and how to make it work for everyone.
 
-This open artifacts project attempts defining a curriculum for anyone wanting to study comprehensive thinking.
+This open artifacts project attempts to define an study guide for anyone wanting to build their understanding of comprehensive thinking.
 
-Ultimately, the curriculum would be in the form of a website.
+Ultimately, the study guide would be in the form of a website. I'm looking at the [Common Core Curriculum](http://www.corestandards.org/) as a guide, but I'm not sure yet if the study guide should have the form of a set of educational standards.
 
 To contribute to the project, you can fork this repository and then submit a pull request with any contribution you make. If you're not so technically adept, you're welcome to contact Jim Applegate by going to https://www.JimApplegate.com/contact/.
 
