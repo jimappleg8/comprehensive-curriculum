@@ -10,13 +10,20 @@ To contribute to the project, you can fork this repository and then submit a pul
 
 This is in the early stages, but here is a simple list of topics. This first list includes some of the basics of clear thinking:
 
-* Critical Thinking
-* Inventory of Generalizations
+* Cognitive science & cognitive bias
+* Complexity science
+* Critical thinking
+* Economics
+* Game theory
+* General semantics
+* Graphic visualization & visual vocabulary
+* Known generalized principles
 * Science
 	* Scientific method
 	* Discoveries of science
 	* History of science
-* Visual Vocabulary
+* Statistics
+* Systems thinking
 * World geography
 * World history
 
@@ -25,8 +32,7 @@ These are topics listed as part of the Buckminster Fuller Institute's "Accelerat
 
 * Agroecology
 * Appropriate technologies
-* AR/VR/XR
-* Artificial intelligence
+* Artificial intelligence (AI)
 * Automation
 * Biomimicry
 * Biophilic design
@@ -43,6 +49,10 @@ These are topics listed as part of the Buckminster Fuller Institute's "Accelerat
 * Ecological design
 * Ecological economics
 * Experiential learning
+* Extended Reality (XR)
+	* Virtual Reality (VR)
+	* Augmented Reality (AR)
+	* Mixed Reality (MR)
 * Futurism
 * Generative design
 * Geostories
@@ -60,7 +70,7 @@ These are topics listed as part of the Buckminster Fuller Institute's "Accelerat
 * Open access
 * Open science
 * Open source
-* P2P
+* Peer to peer computing/networking (P2P)
 * Permaculture
 * Platform cooperatives
 * Regenerative design and development
