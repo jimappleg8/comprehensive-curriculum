@@ -11,10 +11,12 @@ To contribute to the project, you can fork this repository and then submit a pul
 This is in the early stages, but here is a simple list of topics. This first list includes some of the basics of clear thinking:
 
 * Critical Thinking
+* Inventory of Generalizations
 * Science
 	* Scientific method
 	* Discoveries of science
 	* History of science
+* Visual Vocabulary
 * World geography
 * World history
 
